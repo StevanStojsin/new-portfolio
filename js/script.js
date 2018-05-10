@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".nav-toggle").on("click",function(){$(".main-nav").slideToggle()})});
